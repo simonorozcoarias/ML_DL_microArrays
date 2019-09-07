@@ -1,0 +1,6 @@
+we compared results obtained in classifying 11 different tumor classes through different approaches of ML. 
+First we tested Hierarchical clustering and K-Means (unsupervised learning), then eight classification algorithms 
+(supervised learning): K-Nearest Neighbors (KNN), Linear Support Vector Classifier (SVC), Logistic Regression (LR), 
+Linear Discriminant Analysis (LDA), Naive Bayesian Classifier (NB), Multi-Layer Perceptron (MLP), Random Forests (RF), 
+Decision Trees (DT), and finally we applied Deep Neuronal Networks (DNN) such as fully connected neural networks 
+and convolutional neural networks.
